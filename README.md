@@ -1,4 +1,3 @@
-#**"بِعثتك أيْسر"**
 ## 📌 Project Overview
 
 **web platform** designed to support and guide students in the **Custodian of the Two Holy Mosques Scholarship Program**, with a special focus on the **Pioneers Path**. The website helps scholarship recipients easily access essential services and information such as:
